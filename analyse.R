@@ -4,7 +4,7 @@ library(ratdat)
 
 #Graphique
 ggplot(data=complete_old, aes(x=weight, y=hindfoot_length))+
-  geom_point(color="red")
+  geom_point(color="red2")
 
 #commande pour git
 #git add analyse.R
