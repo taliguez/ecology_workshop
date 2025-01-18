@@ -11,3 +11,4 @@ ggplot(data=complete_old, aes(x=weight, y=hindfoot_length))+
 #git status
 #git commit -m "Creer le script analyse"
 #git log
+#git revert HEAD --> revenir au precedent script
